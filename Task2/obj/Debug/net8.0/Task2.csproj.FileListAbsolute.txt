@@ -1,0 +1,15 @@
+/Users/zemskov/Desktop/DZ_7/Task2/obj/Debug/net8.0/Task2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/zemskov/Desktop/DZ_7/Task2/obj/Debug/net8.0/Task2.AssemblyInfoInputs.cache
+/Users/zemskov/Desktop/DZ_7/Task2/obj/Debug/net8.0/Task2.AssemblyInfo.cs
+/Users/zemskov/Desktop/DZ_7/Task2/obj/Debug/net8.0/Task2.csproj.CoreCompileInputs.cache
+/Users/zemskov/Desktop/DZ_7/Task2/obj/Debug/net8.0/Task2.sourcelink.json
+/Users/zemskov/Desktop/DZ_7/Task2/bin/Debug/net8.0/Task2
+/Users/zemskov/Desktop/DZ_7/Task2/bin/Debug/net8.0/Task2.deps.json
+/Users/zemskov/Desktop/DZ_7/Task2/bin/Debug/net8.0/Task2.runtimeconfig.json
+/Users/zemskov/Desktop/DZ_7/Task2/bin/Debug/net8.0/Task2.dll
+/Users/zemskov/Desktop/DZ_7/Task2/bin/Debug/net8.0/Task2.pdb
+/Users/zemskov/Desktop/DZ_7/Task2/obj/Debug/net8.0/Task2.dll
+/Users/zemskov/Desktop/DZ_7/Task2/obj/Debug/net8.0/refint/Task2.dll
+/Users/zemskov/Desktop/DZ_7/Task2/obj/Debug/net8.0/Task2.pdb
+/Users/zemskov/Desktop/DZ_7/Task2/obj/Debug/net8.0/Task2.genruntimeconfig.cache
+/Users/zemskov/Desktop/DZ_7/Task2/obj/Debug/net8.0/ref/Task2.dll
