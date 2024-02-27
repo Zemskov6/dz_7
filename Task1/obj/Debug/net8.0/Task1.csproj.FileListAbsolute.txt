@@ -1,0 +1,15 @@
+/Users/zemskov/Desktop/DZ_7/Task1/bin/Debug/net8.0/Task1
+/Users/zemskov/Desktop/DZ_7/Task1/bin/Debug/net8.0/Task1.deps.json
+/Users/zemskov/Desktop/DZ_7/Task1/bin/Debug/net8.0/Task1.runtimeconfig.json
+/Users/zemskov/Desktop/DZ_7/Task1/bin/Debug/net8.0/Task1.dll
+/Users/zemskov/Desktop/DZ_7/Task1/bin/Debug/net8.0/Task1.pdb
+/Users/zemskov/Desktop/DZ_7/Task1/obj/Debug/net8.0/Task1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/zemskov/Desktop/DZ_7/Task1/obj/Debug/net8.0/Task1.AssemblyInfoInputs.cache
+/Users/zemskov/Desktop/DZ_7/Task1/obj/Debug/net8.0/Task1.AssemblyInfo.cs
+/Users/zemskov/Desktop/DZ_7/Task1/obj/Debug/net8.0/Task1.csproj.CoreCompileInputs.cache
+/Users/zemskov/Desktop/DZ_7/Task1/obj/Debug/net8.0/Task1.sourcelink.json
+/Users/zemskov/Desktop/DZ_7/Task1/obj/Debug/net8.0/Task1.dll
+/Users/zemskov/Desktop/DZ_7/Task1/obj/Debug/net8.0/refint/Task1.dll
+/Users/zemskov/Desktop/DZ_7/Task1/obj/Debug/net8.0/Task1.pdb
+/Users/zemskov/Desktop/DZ_7/Task1/obj/Debug/net8.0/Task1.genruntimeconfig.cache
+/Users/zemskov/Desktop/DZ_7/Task1/obj/Debug/net8.0/ref/Task1.dll
